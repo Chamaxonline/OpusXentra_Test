@@ -1,0 +1,18 @@
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\obj\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Inovint ERP\inovitwebapi\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\obj\Debug\netstandard2.0\Entity.pdb
+D:\Chamath\Test\OpusXentra\API\OpusXentra\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
